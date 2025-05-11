@@ -13,8 +13,7 @@ Original file is located at
 Enhanced RAG system for Arabic legal texts with improved accuracy
 """
 
-!pip install faiss-cpu sentence-transformers transformers nltk arabic-reshaper python-bidi
-!python -m nltk.downloader stopwords punkt
+
 
 import numpy as np
 import pandas as pd
